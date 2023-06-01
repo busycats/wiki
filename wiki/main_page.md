@@ -21,60 +21,44 @@ Viagra is available in tablet form and is typically taken orally, swallowed with
 
 Generally, Viagra is taken approximately 30 minutes to 1 hour before sexual activity. It should not be taken more than once a day. The effects of Viagra can last for up to 4-5 hours, allowing for spontaneity in sexual encounters within that timeframe.
 
-## Precautions and Side Effects
+Precautions and Side Effects
+Before taking Viagra, it is important to consult with a healthcare professional, especially if you have any underlying health conditions or are taking other medications. Precautions and potential side effects associated with Viagra include:
 
-Before taking Viagra, it is essential to consult with a healthcare professional, especially if you have any underlying health conditions or are taking other medications. Some precautions and potential side effects associated with Viagra include:
+Allergies: Viagra should not be taken by individuals who are allergic to sildenafil or any of the other ingredients in the medication.
+Medical Conditions: It is crucial to disclose any existing medical conditions, such as heart problems, high or low blood pressure, liver or kidney disease, and eye problems, to your healthcare professional.
+Medication Interactions: Certain medications, especially those containing nitrates, can interact with Viagra and cause a significant drop in blood pressure. Inform your healthcare professional about all the medications you are currently taking.
+Common Side Effects: Some common side effects of Viagra may include headaches, dizziness, flushing, indigestion, nasal congestion, and changes in vision. These side effects are typically mild and temporary.
+If you experience severe or persistent side effects or have an erection lasting longer than 4 hours (priapism), seek immediate medical attention.
 
-- Viagra should not be taken by individuals who are allergic to sildenafil or any of the other ingredients in the medication.
-- It is important to disclose any existing medical conditions, such as heart problems, high or low blood pressure, liver or kidney disease, and eye problems.
-- Certain medications, particularly those containing nitrates, can interact with Viagra and cause a significant drop in blood pressure. It is crucial to inform the healthcare professional about all the medications you are currently taking.
-- Common side effects of Viagra may include headaches, dizziness, flushing, indigestion, nasal congestion, and changes in vision. These side effects are usually mild and temporary.
+## Regional Information
+Here is some information regarding the availability and regulations of Viagra in different regions:
 
-If you experience any severe or persistent side effects or have an erection that lasts longer than 4 hours (priapism), seek immediate medical attention.
-
-## Regional issues
 ### Brazil
-Pfizer's patent on sildenafil citrate expired in Brazil in 2010.[86]
+Pfizer's patent on sildenafil citrate expired in Brazil in 2010.
 
 ### Canada
-In Canada, Pfizer's patent 2,324,324 for Revatio (sildenafil used to treat pulmonary hypertension) was found invalid by the Federal Court in June 2010, on an application by Ratiopharm Inc.[87][88]
-
-On 8 November 2012, the Supreme Court of Canada ruled that Pfizer's patent 2,163,446 on Viagra was invalid from the beginning because the company did not provide full disclosure in its application. The decision, Teva Canada Ltd. v. Pfizer Canada Inc., pointed to section 27(3)(b) of The Patent Act which requires that disclosure must include sufficient information "to enable any person skilled in the art or science to which it pertains" to produce it. It added further: "As a matter of policy and sound statutory interpretation, patentees cannot be allowed to 'game' the system in this way. This, in my view, is the key issue in this appeal."[89]
-
-Teva Canada launched Novo-Sildenafil, a generic version of Viagra, on the day the Supreme Court of Canada released its decision.[90][91][92] To remain competitive, Pfizer then reduced the price of Viagra in Canada.[93] However, on 9 November 2012, Pfizer filed a motion for a re-hearing of the appeal in the Supreme Court of Canada,[94] on the grounds that the court accidentally exceeded its jurisdiction by voiding the patent.[95] Finally, on 22 April 2013, the Supreme Court of Canada invalidated Pfizer's patent altogether.[96]
+In Canada, Pfizer's patent for Revatio (sildenafil used to treat pulmonary hypertension) was found invalid by the Federal Court in June 2010. Moreover, in November 2012, the Supreme Court of Canada ruled that Pfizer's patent on Viagra was invalid from the beginning.
 
 ### China
-Manufacture and sale of sildenafil citrate drugs is common in China, where Pfizer's patent claim is not widely enforced.
+Manufacture and sale of sildenafil citrate drugs are common in China, where Pfizer's patent claim is not widely enforced.
 
 ### Egypt
-Egypt approved Viagra for sale in 2002, but soon afterwards allowed local companies to produce generic versions of the drug, citing the interests of poor people who would not be able to afford Pfizer's price.[97]
+Egypt approved Viagra for sale in 2002 but later allowed local companies to produce generic versions of the drug to make it more affordable for people in need.
 
 ### European Union
-
-Sildenafil 100 milligram tablets (prescription in the European Union)
-Pfizer's patent on sildenafil citrate expired in some member countries of the EU, Austria, Denmark, France, Germany, Ireland, Italy, The Netherlands, Spain, Sweden, the United Kingdom and Switzerland on 21 June 2013.[98][99][100] A UK patent held by Pfizer on the use of PDE5 inhibitors (see below) as treatment of impotence was invalidated in 2000 because of obviousness; this decision was upheld on appeal in 2002.[101][102]
+Pfizer's patent on sildenafil citrate expired in some member countries of the EU, including Austria, Denmark, France, Germany, Ireland, Italy, The Netherlands, Spain, Sweden, the United Kingdom, and Switzerland on 21 June 2013.
 
 ### India
-Manufacture and sale of sildenafil citrate drugs known as "generic Viagra" is common in India, where Pfizer's patent claim does not apply. Trade names include Kamagra (Ajanta Pharma), Silagra (Cipla), Edegra (Sun Pharmaceutical), Penegra (Zydus Cadila), Manly (Cooper Pharma) and Zenegra (Alkem Laboratories).
+Manufacture and sale of sildenafil citrate drugs known as "generic Viagra" is common in India, where Pfizer's patent claim does not apply. Various trade names are used for these generic versions.
 
 ### New Zealand
-Sildenafil was reclassified in New Zealand in 2014 so it could be bought over the counter from a pharmacist. It is thought that this reduced sales over the Internet and was safer as men could be referred for medical advice if appropriate.[103]
+Sildenafil was reclassified in New Zealand in 2014, allowing it to be bought over the counter from a pharmacist, promoting safety and enabling referral for medical advice if necessary.
 
 ### South Korea
-In 1999 South Korea granted two patents to Pfizer related to sildenafil. The first document guaranteed sole production and sale of the substance until 2012, while the second gave Pfizer the exclusive use to treating erectile dysfunction with sildenafil until 2014.[104] In 2011 Hanmi Pharmaceutical and CJ CheilJedang launched a suit against the exclusive use patent. The Korean Court system made a ruling against Pfizer in June 2012, allowing for the unhindered domestic production of generic prescription sildenafil.
-
-During 2012 Viagra lost its position as the top selling erectile dysfunction treatment in South Korea. This development was credited largely "due to the introduction of generic products." Generic sildenafil became publicly available in May. Sales of PalPal by Hanmi Pharmaceuticals totalled ₩22 billion or about 86% the market share of Viagra that year. By 2017 there were over 50 generic sildenafil pills available. During that year Viagra sales slumped to 38% that of Palpal.
+In South Korea, Pfizer's exclusive use patent for sildenafil to treat erectile dysfunction expired in 2014. The introduction of generic products led to a decline in Viagra sales and the availability of multiple generic sildenafil options.
 
 ### United Kingdom
-There were 2,958,199 prescriptions for Sildenafil in 2016 in England, compared with 1,042,431 in 2006.
-
-In 2018, Viagra Connect, a particular formulation of Sildenafil marketed by Pfizer, became available for sale without a prescription in the UK, in an attempt to widen availability and reduce demand for counterfeit products.
+In the UK, there were 2,958,199 prescriptions for Sildenafil in 2016. Additionally, in 2018, Viagra Connect, a specific formulation of Sildenafil marketed by Pfizer, became available for sale without a prescription to increase accessibility and reduce counterfeit product demand.
 
 ### United States
-Sildenafil is available as a generic drug in the United States, labeled for pulmonary arterial hypertension. As of 2016 branded pills cost about 50 times more than generic ones. In the United States as of 2015 the branded 50 mg pill cost is between 25.17 and US$37.88.
-
-In the United States, Pfizer received two patents for sildenafil: one for its indication to treat cardiovascular disease (marketed as Revatio) and another for its indication to treat erectile dysfunction (marketed as Viagra). The substance is the same under both trade names.
-
-In 1992, Pfizer filed a patent covering the substance sildenafil and its use to treat cardiovascular diseases. This would be marketed as Revatio. The patent was published in 1993 and expired in 2012. The patent on Revatio (indicated for pulmonary arterial hypertension rather than erectile dysfunction) expired in late 2012. Generic versions of this low-dose form of sildenafil have been available in the U.S. from a number of manufacturers, including Greenstone, Mylan, and Watson, since early 2013.[112] Health care providers may prescribe generic sildenafil for erectile dysfunction. For a time, the generic was not available in the same dosages as branded Viagra, so using dosages typically required for treating ED required patients to take multiple pills.
-
-In 1994, Pfizer filed a patent covering the use of sildenafil to treat erectile dysfunction. This would be marketed as Viagra. This patent was published in 2002 and expired in 2019. Teva sued to have the latter patent invalidated, but Pfizer prevailed in an August 2011 federal district court case. An agreement with Pfizer allowed Teva to begin to provide the generic drug in December 2017.
+Sildenafil is available as a generic drug in the United States for the treatment of pulmonary arterial hypertension. Branded pills are significantly more expensive than generic versions. Pfizer received patents for sildenafil's use to treat cardiovascular disease (marketed as Revatio) and erectile dysfunction (marketed as Viagra). The patent for Revatio expired in 2012, while the patent for Viagra expired in 2019. Generic versions have been available since 2013, and Teva began providing the generic drug in December 2017 after a legal agreement with Pfizer.
