@@ -1,9 +1,9 @@
 # (string) Title of your wiki
 title: viagra
 # (string) Description of your wiki
-description: 
+description: Viagra is a brand name for sildenafil, used for treating erectile dysfunction.
 # (boolean) disable edit functionalities (edit/delete/add pages)
-disable_edit: false
+disable_edit: true
 # (boolean) Enable/disable wiki page list in sidebar
 show_wiki_pages: true
 # (integer) Maximum number of wiki page to shown in sidebar
